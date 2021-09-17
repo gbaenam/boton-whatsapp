@@ -1,2 +1,15 @@
 body {
-  background-color: red; }
+  margin: 0;
+  padding: 0; }
+
+.container {
+  /* Banner de fondo Cuba */
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  position: absolute;
+  background-image: url("../img/james-garman.jpg");
+  background-position: 25% 75%;
+  background-size: cover;
+  /* -----------------------*/ }
